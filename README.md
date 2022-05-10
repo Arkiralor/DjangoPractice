@@ -36,12 +36,16 @@ DATABASE = ' '
 USER = ' '
 PASSWORD = ' '
 HOST = ' '
-PORT =  
+PORT =  INT
 
 ## Site Settings:
-DEBUG =  
+DEBUG =  BOOL
 LANGUAGE_CODE = ' '
 TIME_ZONE = ' '
-USE_I18N =  
-USE_TZ =  
+USE_I18N =  BOOL
+USE_TZ =  BOOL
 ```
+
+## Documentation
+
+Postman documentation can be found [HERE](https://documenter.getpostman.com/view/17779018/UyxepoUT).
