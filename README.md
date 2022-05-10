@@ -8,7 +8,7 @@ The following are the installed, custom applications and their purpose.
 
 ### 1. app_v1
 
-This app if for basic API implementation practice such as:
+This app is for basic API implementation practice such as:
   
 - Create Model Data from json as input data.
 - Retrieving Model Data in json as output data.
