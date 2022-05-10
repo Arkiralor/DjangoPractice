@@ -27,7 +27,7 @@ This app if for basic API implementation practice such as:
 
 ## .env File Format
 
-```bash
+```env
 ## Website Encryption:
 SECRET_KEY = ' '
 
